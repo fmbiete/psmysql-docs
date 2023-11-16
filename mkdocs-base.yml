@@ -200,6 +200,12 @@ nav:
         - utility-user.md
   - Quickstart guide:
        - quickstart-overview.md
+       - quickstart-docker.md
+       - quickstart-database.md
+       - quickstart-queries.md
+       - quickstart-exit.md
+       - quickstart-next-steps.md
+      
   - Install:
       - Install Percona Server for MySQL from repositories: installation.md
       - Before you start: 
