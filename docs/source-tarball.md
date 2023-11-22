@@ -1,5 +1,7 @@
 # Install Percona Server for MySQL from a source tarball
 
+<!----ask Eleonora whether we need to add here an instruction for PRO bulds---->
+
 Fetch and extract the source tarball. For example:
 
 ```{.bash data-prompt="$"}
